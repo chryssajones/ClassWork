@@ -18,7 +18,7 @@ header {
 }
 
 section {
-	padding: 0px;
+	padding: 20px;
 	margin-bottom: 20px;
 	background-color: #ccc;
 }
@@ -45,20 +45,22 @@ section {
 	float: left;
 	width: 33%;
 	padding: 20px;
-	margin-bot2tom: 20px;
+	margin-bottom: 20px;
 	background: #666;
 	color: #ffffff;
 }
 
 #full {
+	margin-top: 50px;
 	margin-bottom: 20px;
 	background: #eee;
 	height: 250px;
+	clear: both;
 }
 
 #division {
 	padding: 20px;
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-bottom: 20px;
 	background: #6ea3da;
 	width: 55%;
@@ -66,6 +68,7 @@ section {
 }
 
 aside {
+	margin-top: 20px;
 	padding: 20px;
 	background-color: #fff;
 	width: 45%;
